@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{aFIk:function(n,w){},"prw/":function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/gozima/serviceWorker",function(){return o("aFIk")}])}},[["prw/",0]]]);

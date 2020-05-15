@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/gozima":[a],"/index":[a]}}("static\u002Fchunks\u002F1b394bff20bbd2f365d72540cfd716226ded938e.f66aa3d997336cb4808c.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
